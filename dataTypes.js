@@ -14,3 +14,12 @@ console.log(typeof NaN)
 
 // 1 -> true 0 -> false
 // "" -> false "hkd" -> true
+
+const arr = [ "1", "2", "3"];
+
+let myObj ={
+    name: "Jaypal",
+    age: 23,
+}
+
+console.log(myObj)
